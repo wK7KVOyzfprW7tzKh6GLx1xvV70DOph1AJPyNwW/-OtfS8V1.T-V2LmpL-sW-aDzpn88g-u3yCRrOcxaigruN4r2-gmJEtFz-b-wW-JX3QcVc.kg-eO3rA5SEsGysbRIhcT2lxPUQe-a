@@ -1,3 +1,7 @@
 {
-  "discord_token": "MTU1Mzg0MjQ0MjA3NDA3MTE2Mw.GJBe00.IznXuBHXkzQDo-_TVCOqfLzuaD3786GcGcYk9c"
+  "discord_tokens": [
+    "TOKEN_1",
+    "TOKEN_2",
+    "TOKEN_3"
+  ]
 }
